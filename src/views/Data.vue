@@ -1,6 +1,9 @@
 <template>
   <div>
     我是数据页{{id}}
+    我是数据页{{id}}
+    我是数据页{{id}}
+    我是数据页{{id}}
   </div>
 </template>
 
